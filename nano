@@ -1,0 +1,5 @@
+# install nano from homebrew
+brew install nano
+
+# update your nanorc file with the contents of the nanorc file below
+nano ~/.nanorc
